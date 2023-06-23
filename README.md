@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankalpie
 - 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on DNN
+- 💞️ I’m looking to collaborate on DNN & Regression projects
 - 📫 How to reach me-- email me at sankalpie0903@gmail.com
 
 <!---

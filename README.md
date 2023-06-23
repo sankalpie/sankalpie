@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sankalpie
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on CSS
+- 🌱 I’m currently learning Data Structures
+- 💞️ I’m looking to collaborate on DNN
 - 📫 How to reach me-- email me at sankalpie0903@gmail.com
 
 <!---
